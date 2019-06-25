@@ -1,0 +1,23 @@
+{
+  "title": "What People are Saying...",
+  "slides": [
+    {
+      "quote": "“Just when I lost faith in the banking system, you guys showed up. Thank you for helping to change the world.”",
+      "author": "Francisco V.",
+      "location": "North Miami Beach, FL",
+      "id": "francisco"
+    },
+    {
+      "quote": "“Great customer service! Great interest rate. Reimbursements on ATM withdrawals. Sustainability conscious. World conscious.”",
+      "author": "Spencer J.",
+      "location": "Phoenix, AZ",
+      "id": "spencer"
+    },
+    {
+      "quote": "“Love the fact that you are helping the world and your customers. A win win situation.”",
+      "author": "Dawn B.",
+      "location": "Tampa, FL",
+      "id": "dawn"
+    }
+  ]
+}
