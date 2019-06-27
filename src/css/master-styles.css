@@ -1,11 +1,11 @@
 /* Carousel Page */
 
 .carousel-container {
-  background: #EBF2FA url('../svg/whirly.svg') no-repeat right 40px / 75%;
+  background: url('../svg/whirly.svg') no-repeat right 40px / 75%;
   bottom: 0;
   left: 0;
   padding: 40px 10%;
-  position: absolute;
+  position: relative;
   right: 0;
   top: 0;
 }
